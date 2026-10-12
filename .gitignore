@@ -1,0 +1,6 @@
+.venv311/
+.venv/
+.idea/
+__pycache__/
+*.pyc
+desktop.ini
